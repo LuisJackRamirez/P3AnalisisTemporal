@@ -302,6 +302,6 @@ Actividades a realizar para conformar el reporte:
   - [ ] Script.
 
 ## Autores :pencil2:
-- :octocat: [Luis Resendiz](https://github.com/luisrdevs)
+- :octocat: [Luis Resendiz](https://github.com/luisthread)
 - :octocat: [Luis Ramirez](https://github.com/LuisJackRamirez)
 - :octocat: [Luis Quintana](https://github.com/ErickQuint)
