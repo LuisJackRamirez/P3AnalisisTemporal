@@ -6,9 +6,9 @@
 
 |       Algoritmo       |    Codificación sin Hilos    |    Codificación con Hilos    |      Gráficas      |       Tiempos      |       Scripts      |
 |:---------------------:|:----------------------------:|:----------------------------:|:------------------:|:------------------:|:------------------:|
-|  Lineal               | :x:           | :x:                          | :x:                | :x:                | :x:                |
+|  Lineal               | :heavy_check_mark:           | :x:                          | :x:                | :x:                | :x:                |
 |  En árbol de búsqueda | :x:                          | :x:                          | :x:                | :x:                | :x:                |
-|  Binaria              | :x:           | :x:                          | :x:                | :x:                | :x:                |
+|  Binaria              | :heavy_check_mark:           | :x:                          | :x:                | :x:                | :x:                |
 |  Exponencial          | :x:                          | :x:                          | :x:                | :x:                | :x:                |
 |  Fibonacci            | :x:           | :x:                          | :x:                | :x:                | :x:                |
 |  Main                 | :x:     | :x:                          | :x:                | :x:                | :x:                |

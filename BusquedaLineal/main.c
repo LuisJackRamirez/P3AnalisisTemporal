@@ -7,7 +7,7 @@
 int busquedaLineal(int n, int *A, int x);
 
 int main() {
-    int n, i, x;
+    int n, x, i;
     scanf("%d %d", &n, &x);
     int *A = malloc(sizeof(int) * n);
     for(i = 0; i < n; ++i)
