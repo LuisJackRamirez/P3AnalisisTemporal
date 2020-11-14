@@ -268,9 +268,9 @@ Actividades a realizar para conformar el reporte:
   - [ ] Grádfica de tiempo real con y sin thread. 
 
 #### :pushpin: Conclusiones
-  - [ ] Guerrero Espinosa Ximena Mariana.
-  - [ ] Hernández Espinoza Miguel Angel
-  - [ ] Jiménez Aguilar Tafnes Lorena.
+  - [ ] Luis Resendiz
+  - [ ] Luis Ramirez
+  - [ ] Luis Quintana
 
 #### :question: Cuestionario 
   - [ ] Pregunta 01.
