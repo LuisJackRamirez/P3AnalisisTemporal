@@ -1,0 +1,20 @@
+322486 not in tree
+Tiempo real: 0.0000050068 s
+322486 not in tree
+Tiempo real: 0.0000059605 s
+322486 not in tree
+Tiempo real: 0.0000090599 s
+322486 not in tree
+Tiempo real: 0.0000100136 s
+322486 not in tree
+Tiempo real: 0.0000100136 s
+322486 not in tree
+Tiempo real: 0.0000112057 s
+322486 not in tree
+Tiempo real: 0.0000109673 s
+322486 not in tree
+Tiempo real: 0.0000100136 s
+322486 in tree
+Tiempo real: 0.0000100136 s
+322486 in tree
+Tiempo real: 0.0000100136 s
