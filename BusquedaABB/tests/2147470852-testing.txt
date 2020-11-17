@@ -1,0 +1,20 @@
+2147470852 not in tree
+Tiempo real: 0.0000040531 s
+2147470852 not in tree
+Tiempo real: 0.0000038147 s
+2147470852 not in tree
+Tiempo real: 0.0000069141 s
+2147470852 not in tree
+Tiempo real: 0.0000069141 s
+2147470852 not in tree
+Tiempo real: 0.0000078678 s
+2147470852 not in tree
+Tiempo real: 0.0000081062 s
+2147470852 not in tree
+Tiempo real: 0.0000078678 s
+2147470852 in tree
+Tiempo real: 0.0000078678 s
+2147470852 in tree
+Tiempo real: 0.0000081062 s
+2147470852 in tree
+Tiempo real: 0.0000090599 s

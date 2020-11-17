@@ -1,0 +1,20 @@
+1295390003 not in tree
+Tiempo real: 0.0000050068 s
+1295390003 not in tree
+Tiempo real: 0.0000050068 s
+1295390003 not in tree
+Tiempo real: 0.0000078678 s
+1295390003 not in tree
+Tiempo real: 0.0000088215 s
+1295390003 not in tree
+Tiempo real: 0.0000090599 s
+1295390003 not in tree
+Tiempo real: 0.0000078678 s
+1295390003 not in tree
+Tiempo real: 0.0000090599 s
+1295390003 not in tree
+Tiempo real: 0.0000100136 s
+1295390003 in tree
+Tiempo real: 0.0000121593 s
+1295390003 in tree
+Tiempo real: 0.0000119209 s

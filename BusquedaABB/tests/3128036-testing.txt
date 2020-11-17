@@ -1,0 +1,20 @@
+3128036 not in tree
+Tiempo real: 0.0000050068 s
+3128036 in tree
+Tiempo real: 0.0000109673 s
+3128036 in tree
+Tiempo real: 0.0000081062 s
+3128036 in tree
+Tiempo real: 0.0000088215 s
+3128036 in tree
+Tiempo real: 0.0000109673 s
+3128036 in tree
+Tiempo real: 0.0000090599 s
+3128036 in tree
+Tiempo real: 0.0000090599 s
+3128036 in tree
+Tiempo real: 0.0000081062 s
+3128036 in tree
+Tiempo real: 0.0000090599 s
+3128036 in tree
+Tiempo real: 0.0000119209 s

@@ -1,0 +1,20 @@
+1493283650 in tree
+Tiempo real: 0.0000040531 s
+1493283650 in tree
+Tiempo real: 0.0000038147 s
+1493283650 in tree
+Tiempo real: 0.0000078678 s
+1493283650 in tree
+Tiempo real: 0.0000078678 s
+1493283650 in tree
+Tiempo real: 0.0000081062 s
+1493283650 in tree
+Tiempo real: 0.0000069141 s
+1493283650 in tree
+Tiempo real: 0.0000081062 s
+1493283650 in tree
+Tiempo real: 0.0000081062 s
+1493283650 in tree
+Tiempo real: 0.0000090599 s
+1493283650 in tree
+Tiempo real: 0.0000088215 s
