@@ -1,20 +1,20 @@
-2147470852 not in tree
-Tiempo real: 0.0000040531 s
-2147470852 not in tree
+1000000: not in tree
+Tiempo real: 0.0000030994 s
+2000000: not in tree
 Tiempo real: 0.0000038147 s
-2147470852 not in tree
-Tiempo real: 0.0000069141 s
-2147470852 not in tree
-Tiempo real: 0.0000069141 s
-2147470852 not in tree
+3000000: not in tree
+Tiempo real: 0.0000050068 s
+4000000: not in tree
+Tiempo real: 0.0000040531 s
+5000000: not in tree
 Tiempo real: 0.0000078678 s
-2147470852 not in tree
+6000000: not in tree
 Tiempo real: 0.0000081062 s
-2147470852 not in tree
+7000000: not in tree
 Tiempo real: 0.0000078678 s
-2147470852 in tree
-Tiempo real: 0.0000078678 s
-2147470852 in tree
-Tiempo real: 0.0000081062 s
-2147470852 in tree
+8000000: in tree
 Tiempo real: 0.0000090599 s
+9000000: in tree
+Tiempo real: 0.0000140667 s
+10000000: in tree
+Tiempo real: 0.0000059605 s
