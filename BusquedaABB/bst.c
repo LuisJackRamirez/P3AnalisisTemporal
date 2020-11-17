@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "tiempo.h"
+#include "../tiempo.h"
 
 struct Node
 {
@@ -20,9 +20,6 @@ void test (struct Node *);
 int
 main (int argc, char **argv)
 {
-  FILE *f;
-  double utime0, stime0, wtime0;
-  double utime1, stime1, wtime1;
   int n = 0;
   int num = 0;
   int queries[20] =
@@ -41,26 +38,15 @@ main (int argc, char **argv)
   buildTree (&root, n);
   //root = balanceTree (root, n);
 
+  printf ("%d\n", n);
   for (int i = 0; i < 20; i++)
     {
-      char numAnalized[25];
-      char fileName[50] = "tests/";
-      sprintf (numAnalized, "%d", queries[i]);
-      strcat (numAnalized, "-testing.txt");
-      strcat (fileName, numAnalized);
-      f = fopen (fileName, "a");
-
-      uswtime (&utime0, &stime0, &wtime0);
       searchResult = searchInTree (root, queries[i]);
-      uswtime (&utime1, &stime1, &wtime1);
 
       if (searchResult == 0)
-	fprintf (f, "%d: not in tree\n", n);
+	printf ("%d: not in tree\n", queries[i]);
       else
-	fprintf (f, "%d: in tree\n", n);
-
-      fprintf (f, "Tiempo real: %.10f s\n", wtime1 - wtime0);
-      fclose (f);
+	printf ("%d: in tree\n", queries[i]);
     }
 
   return 0;

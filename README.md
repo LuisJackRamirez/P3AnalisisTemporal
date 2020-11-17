@@ -7,7 +7,7 @@
 |       Algoritmo       |    Codificación sin Hilos    |    Codificación con Hilos    |      Gráficas      |       Tiempos      |       Scripts      |
 |:---------------------:|:----------------------------:|:----------------------------:|:------------------:|:------------------:|:------------------:|
 |  Lineal               | :heavy_check_mark:           | :x:                          | :x:                | :x:                | :x:                |
-|  En árbol de búsqueda | :x:                          | :x:                          | :x:                | :x:                | :x:                |
+|  En árbol de búsqueda | :heavy_check_mark:                          | :x:                          | :x:                | :x:                | :x:                |
 |  Binaria              | :heavy_check_mark:           | :x:                          | :x:                | :x:                | :x:                |
 |  Exponencial          | :x:                          | :x:                          | :x:                | :x:                | :x:                |
 |  Fibonacci            | :x:           | :x:                          | :x:                | :x:                | :x:                |
