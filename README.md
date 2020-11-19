@@ -9,8 +9,8 @@
 |  Lineal               | :heavy_check_mark:           | :x:                          | :x:                | :x:                | :x:                |
 |  En árbol de búsqueda | :heavy_check_mark:                          | :x:                          | :x:                | :x:                | :x:                |
 |  Binaria              | :heavy_check_mark:           | :x:                          | :x:                | :x:                | :x:                |
-|  Exponencial          | :x:                          | :x:                          | :x:                | :x:                | :x:                |
-|  Fibonacci            | :x:           | :x:                          | :x:                | :x:                | :x:                |
+|  Exponencial          | :heavy_check_mark:                          | :x:                          | :x:                | :x:                | :x:                |
+|  Fibonacci            | :heavy_check_mark:          | :x:                          | :x:                | :x:                | :x:                |
 |  Main                 | :x:     | :x:                          | :x:                | :x:                | :x:                |
 
 ### Reporte :memo:
