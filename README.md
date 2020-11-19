@@ -123,11 +123,11 @@ Actividades a realizar para conformar el reporte:
       - [ ] Gráfica tiempo promedio.
 
   #### :pushpin: Binaria 
-  - [ ] Teoría.
-  - [ ] Análisis teórico.
-    - [ ] Mejor caso.
-    - [ ] Peor caso.
-    - [ ] Caso medio. 
+  - [x] Teoría.
+  - [x] Análisis teórico.
+    - [x] Mejor caso.
+    - [x] Peor caso.
+    - [x] Caso medio. 
   - [x] Registro de tiempo.
     - [x] Buscar números de A con valor de:
       - [x] n = 1000000.
