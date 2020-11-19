@@ -1,14 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int busquedaExponencial(int *A, int n, int x) {
+int busquedaExponencial(int *A, int n, int x){
 	int anterior = 0, actual = 1;
 	int i = 0;
 
 	if(A[0] == x)
 		return 1;
 
-	while((actual < n) && (A[actual] < x)) {
+	while((actual < n) && (A[actual] < x)){
 		anterior = actual;
 		actual *= 2;
 	}
@@ -16,18 +16,24 @@ int busquedaExponencial(int *A, int n, int x) {
 	return busquedaBinaria(A, n, x, anterior, actual);
 }
 
-int busquedaBinaria(int* A, int n, int x){
-    int left = 0;
-    int right = n-1;
-    while(left <= right) {
-        int mid = left + (right - left) / 2;
-        if(A[mid] == x)
-            return 1;
-        (A[mid] < x) ?
-            (left = mid + 1) : (right = mid - 1);
-    }
+int busquedaBinaria(int *A, int n, int x, int inf, int sup){
+	int limInf = inf;
+	int limSup = sup;
+	int centro = (limSup+limInf)/2;
+	int bandera = 0;
 
-    return 0;
+	while((limInf <= limSup) && (bandera == 0)){
+		if(A[centro] == x)
+			bandera = 1;
+		else if(A[centro] < x)
+			limInf = centro+1;
+		else
+			limSup = centro-1;
+
+		centro = (limSup+limInf)/2;
+	}
+
+	return bandera;
 }
 
 int main(){
