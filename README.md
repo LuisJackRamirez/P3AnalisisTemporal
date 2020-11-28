@@ -77,25 +77,25 @@ Actividades a realizar para conformar el reporte:
       - [ ] Gráfica tiempo promedio.
 
   #### :pushpin: En árbol de búsqueda 
-  - [ ] Teoría.
+  - [x] Teoría.
   - [ ] Análisis teórico.
     - [ ] Mejor caso.
     - [ ] Peor caso.
     - [ ] Caso medio. 
-  - [ ] Registro de tiempo.
-    - [ ] Buscar números de A con valor de:
-      - [ ] n = 1000000.
-      - [ ] n = 2000000.
-      - [ ] n = 3000000.
-      - [ ] n = 4000000.
-      - [ ] n = 5000000.
-      - [ ] n = 6000000.
-      - [ ] n = 7000000.
-      - [ ] n = 8000000.
-      - [ ] n = 9000000.
-      - [ ] n = 10000000.
-    - [ ] Sacar tiempo promedio.
-    - [ ] Gráfica tiempo promedio.
+  - [x] Registro de tiempo.
+    - [x] Buscar números de A con valor de:
+      - [x] n = 1000000.
+      - [x] n = 2000000.
+      - [x] n = 3000000.
+      - [x] n = 4000000.
+      - [x] n = 5000000.
+      - [x] n = 6000000.
+      - [x] n = 7000000.
+      - [x] n = 8000000.
+      - [x] n = 9000000.
+      - [x] n = 10000000.
+    - [x] Sacar tiempo promedio.
+    - [x] Gráfica tiempo promedio.
   - [ ] Aproximación del comportamiento temporal.
   - [ ] Determinar cuánto le lleva e la computadora ejecutar el peor caso.
   - [ ] Encontrar la constante multiplicativa.
