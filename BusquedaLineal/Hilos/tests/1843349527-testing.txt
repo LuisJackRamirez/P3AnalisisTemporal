@@ -1,0 +1,20 @@
+1000000: not in A
+Tiempo real: 0.0038051605 s
+2000000: not in A
+Tiempo real: 0.0075280666 s
+3000000: in A
+Tiempo real: 0.0084371567 s
+4000000: in A
+Tiempo real: 0.0088779926 s
+5000000: in A
+Tiempo real: 0.0088980198 s
+6000000: in A
+Tiempo real: 0.0089488029 s
+7000000: in A
+Tiempo real: 0.0088610649 s
+8000000: in A
+Tiempo real: 0.0083901882 s
+9000000: in A
+Tiempo real: 0.0088660717 s
+10000000: in A
+Tiempo real: 0.0089519024 s
