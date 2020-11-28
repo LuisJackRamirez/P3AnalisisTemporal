@@ -47,10 +47,8 @@ void main(int argc, char *argv[]){
 	printf("hola");
 	
 	//Se leen los numeros desde la consola o un archivo
-	for(i=3;i<n;i++){
-		numeros[i-3]=atoi(argv[i-3]);
-		printf("%i",numeros[i-3]);
-		printf("hola");
+	for(i=0;i<n;i++){
+		scanf("%d", &numeros[i]);
 	}
 	
 	d->arreglo = numeros;
